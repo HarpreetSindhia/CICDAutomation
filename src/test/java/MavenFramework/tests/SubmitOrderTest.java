@@ -74,6 +74,7 @@ public class SubmitOrderTest extends BaseTest {
 		map11.put("targetProducts", Arrays.asList("ZARA COAT 3", "ADIDAS ORIGINAL", "IPHONE 13 PRO"));
 
 		return new Object[][] { { map }, { map11 } };
+//New Comments added by Harpreet Sindhia
 		
 		}*/
 				
